@@ -1,14 +1,19 @@
 {
   "name": "rubeusjs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "A TypeScript library for clean architecture",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Gustavo Valle",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gustavovalle23/rubeusjs.git"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^7.17.0",
     "@typescript-eslint/parser": "^7.17.0",
